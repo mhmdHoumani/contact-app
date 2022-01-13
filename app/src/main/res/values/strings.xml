@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="enter_firstName">Enter your first name here</string>
+    <string name="enter_lastName">Enter your last name here</string>
+    <string name="phoneNumber">Phone number:</string>
+    <string name="phone_number_here">Phone number here</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">back</string>
+    <string name="refresh_list">refreshList</string>
+    <string name="unique_number">Unique number</string>
+</resources>
